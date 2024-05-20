@@ -3,6 +3,8 @@
 
 
 
+
+
 [![CI](https://github.com/CodSpeedHQ/pytest-codspeed/actions/workflows/ci.yml/badge.svg)](https://github.com/CodSpeedHQ/pytest-codspeed/actions/workflows/ci.yml)
 [![PyPi Version](https://img.shields.io/pypi/v/pytest-codspeed?color=%2334D058&label=pypi)](https://pypi.org/project/pytest-codspeed)
 ![Python Version](https://img.shields.io/badge/python-3.7%20|%203.8%20|%203.9%20|%203.10%20|%203.11%20|%203.12-informational.svg)
